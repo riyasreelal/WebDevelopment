@@ -2,7 +2,7 @@
 
 ## WEBSITES
 
-1. - [x] [HTML WEBSITE]
+1. HTML WEBSITE
 
 ## REFERNCE LINKS
 
